@@ -1,0 +1,1 @@
+Interfaceing all the peripherals into a single program through multiple files and switching the functionalities through the keypad

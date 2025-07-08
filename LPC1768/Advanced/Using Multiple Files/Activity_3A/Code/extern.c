@@ -1,0 +1,13 @@
+void keypadinitialize(void);
+unsigned char getkeypressed(void);
+void delay(int count);
+void lcdinit(void);
+void lcdstring(char *str);
+void lcdchar(unsigned char data,unsigned char type);
+int led(void);
+int sev(void);
+int stepp(void);
+int stepp_cc(void);
+int motor(void);
+int dac(void);
+int intrr();
